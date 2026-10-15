@@ -8,6 +8,7 @@
 - [Coffee House Analysis](#coffee-house-analysis)
 - [Hypothesis](#hypothesis)
 - [Recommendation](#recommendation)
+- [Practical Application 1 Jupyter Notebook](./Practical%20Application%201%20Jupyter%20Notebook.ipynb)
 
 ## Overview
 
