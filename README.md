@@ -93,8 +93,8 @@ For Bar coupons, visit frequency was strongly associated with acceptance. For Co
 
 ## Recommendation
 
-Coupon targeting should prioritize **behavioral relevance and contextual timing** rather than distributing offers uniformly.
+Coupon targeting should prioritize behavioral relevance and contextual timing rather than distributing offers uniformly.
 
 For example, Coffee House coupons could be targeted toward regular visitors around **10AM or 2PM**, where this dataset showed an acceptance rate of **77.4%**.
 
-These findings demonstrate **association, not causation**. Statistical testing or predictive modeling would be useful next steps to determine which factors remain significant when considered together.
+These findings demonstrate association, not causation. Statistical testing or predictive modeling would be useful next steps to determine which factors remain significant when considered together.
